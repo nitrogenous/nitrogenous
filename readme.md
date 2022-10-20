@@ -40,17 +40,11 @@ I’m a front-end engineer :P
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working at [Firefly](https://fireflyon.com)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- ❓ Ask me about anything related to front-end stack and related technologies  
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
 
 </td><td valign="top" width="50%">
 
