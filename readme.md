@@ -27,9 +27,7 @@
 
 
 ### Glad to see you here!  
-I’m a front-end engineer :P
-  
-  
+My name is Toprak Koç, and I am a Front-End Engineer with a couple of years of experience. Throughout my career, I have had the opportunity to work with some of Turkey's top startups, where I have honed my skills and gained valuable experience. I am passionate about coding, which I started at an early age, and have become proficient in various programming languages and frameworks. As a technology enthusiast, I am always eager to learn new concepts and techniques to enhance my work. Quality is paramount to me, and I always strive to produce the finest product possible, leveraging my experience and expertise.
 
 <br/>  
 
