@@ -43,10 +43,7 @@ My name is Toprak Koç, and I am a Front-End Engineer with a couple of years of 
 
 </td><td valign="top" width="50%">
 
-<div align="center">
 ![image](https://github.com/nitrogenous/nitrogenous/assets/29578451/a7c731f9-1fae-4151-97d5-2d3d66ec045d)
-</div>  
-
 
 </td></tr></table>  
 
