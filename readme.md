@@ -44,7 +44,8 @@ My name is Toprak Koç, and I am a Front-End Engineer with a couple of years of 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="![image](https://github.com/nitrogenous/nitrogenous/assets/29578451/81273ece-938d-4b80-9d69-374b58898edd)
+" align="center" style="width: 100%" />
 </div>  
 
 
