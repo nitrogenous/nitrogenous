@@ -25,9 +25,9 @@ My name is Toprak Koç, and I am a Front-End Engineer with a couple of years of 
 ### [toprak.dev](https://toprak.dev)  
 
 
-### 🔭 I’m currently working at [Firefly](https://fireflyon.com)  
+### 🔭 I’m currently working on my knowledge and I'm open for job offers.
   
-### ❓ Ask me about anything related to front-end stack and related technologies  
+### ❓ Ask me about anything related to front-end stack and related technologies
 
 <div align="center">  
 
