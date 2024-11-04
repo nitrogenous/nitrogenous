@@ -1,7 +1,10 @@
-## Hey 👋, I'm Toprak!   
+## Hello, there!👋   
 
-### Glad to see you here!  
-My name is Toprak Koç, and I am a Front-End Engineer with a couple of years of experience. Throughout my career, I have had the opportunity to work with some of Turkey's top startups, where I have honed my skills and gained valuable experience. I am passionate about coding, which I started at an early age, and have become proficient in various programming languages and frameworks. As a technology enthusiast, I am always eager to learn new concepts and techniques to enhance my work. Quality is paramount to me, and I always strive to produce the finest product possible, leveraging my experience and expertise.
+Hello! I’m Toprak Koç, a Front-End Engineer with a deep passion for crafting engaging user experiences. With five years of experience in diverse projects, I specialize in modern web technologies, including JavaScript, TypeScript, and React. My journey in technology has allowed me to work with dynamic teams and contribute to impactful projects that prioritize user satisfaction and functionality.
+
+## My Philosophy
+
+Quality is at the forefront of my work. I believe in delivering the finest products by leveraging my skills and continuously learning new concepts and techniques. As a technology enthusiast, I thrive on challenges and am always eager to enhance my expertise.
 
 ### [toprak.dev](https://toprak.dev)
 
