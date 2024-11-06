@@ -1,6 +1,6 @@
 ## Hello, there!👋   
 
-Hello! I’m Toprak Koç, a Front-End Engineer with a deep passion for crafting engaging user experiences. With five years of experience in diverse projects, I specialize in modern web technologies, including JavaScript, TypeScript, and React. My journey in technology has allowed me to work with dynamic teams and contribute to impactful projects that prioritize user satisfaction and functionality.
+I'm Toprak Koç, a dedicated Front-End Engineer with several years of experience in Turkey's leading startups. My coding journey started early, and over time, I've built solid expertise in various programming languages and frameworks. Currently, I'm proud to be a Software Engineer at the Aston Martin F1 team.
 
 ## My Philosophy
 
