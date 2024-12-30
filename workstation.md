@@ -39,7 +39,79 @@ https://www.gitkraken.com/
 
 https://gist.github.com/nitrogenous/40d9b2f93b9d67eabf98550c5764c55e
 
-<script src="https://gist.github.com/nitrogenous/40d9b2f93b9d67eabf98550c5764c55e.js"></script>
+```JSON
+{
+  // Better defaults
+  "editor.copyWithSyntaxHighlighting": false,
+  "editor.lightbulb.enabled": "off",
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on", // most asked
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.wordWrap": "on",
+  "editor.wrappingStrategy": "advanced",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "files.insertFinalNewline": true,
+  "explorer.confirmDelete": false,
+  "git.enableCommitSigning": true, // always sign your commits
+  // Reduced noise
+  "editor.hover.enabled": true,
+  "workbench.tips.enabled": false,
+  "git.decorations.enabled": false,
+  "explorer.decorations.colors": true,
+  "explorer.decorations.badges": false,
+  "editor.renderLineHighlight": "none",
+  "editor.occurrencesHighlight": "off",
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleDeclarations": "goto",
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+  "editor.tabSize": 4,
+  // Improved search
+  "search.useIgnoreFiles": false,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist": true,
+    "**debug": true,
+    "**/package-lock.json": true,
+    "**/.next": true
+  },
+  // Code
+  "editor.fontSize": 13,
+  "editor.lineHeight": 1.7,
+  "editor.fontLigatures": true,
+  // Suggestions
+  "editor.suggestFontSize": 12,
+  "editor.suggestLineHeight": 25,
+  // Terminal
+  "terminal.integrated.lineHeight": 1.3,
+  "terminal.integrated.fontSize": 13,
+  // ... other settings
+  "errorLens.enabled": true,
+  "errorLens.padding": "0",
+  "errorLens.gutterIconsEnabled": true,
+  //   "errorLens.removeLinebreaks": false,
+  "errorLens.scrollbarHackEnabled": true,
+  "errorLens.fontWeight": "600",
+  "errorLens.fontFamily": "Fira Code",
+  "settings.cycle": [
+    {
+      "id": "explorer.excludeGitIgnore",
+      "values": [
+        {
+          "explorer.excludeGitIgnore": true
+        },
+        {
+          "explorer.excludeGitIgnore": false
+        }
+      ]
+    }
+  ],
+  "workbench.activityBar.location": "top",
+  "workbench.sideBar.location": "right",
+  "editor.formatOnSave": true
+}
+```
     
 
 ## Layout
