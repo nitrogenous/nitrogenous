@@ -2,13 +2,10 @@
 
 I'm Toprak Koç, a dedicated Front-End Engineer with several years of experience in Turkey's leading startups. My coding journey started early, and over time, I've built solid expertise in various programming languages and frameworks. Currently, I'm proud to be a Software Engineer at the Aston Martin F1 team.
 
-## My Philosophy
-
-Quality is at the forefront of my work. I believe in delivering the finest products by leveraging my skills and continuously learning new concepts and techniques. As a technology enthusiast, I thrive on challenges and am always eager to enhance my expertise.
-
 ## My Workstation
 
 [Details](https://github.com/nitrogenous/nitrogenous/blob/main/workstation.md)
+
 
 ### [toprak.dev](https://toprak.dev)
 
