@@ -6,6 +6,10 @@ I'm Toprak Koç, a dedicated Front-End Engineer with several years of experience
 
 Quality is at the forefront of my work. I believe in delivering the finest products by leveraging my skills and continuously learning new concepts and techniques. As a technology enthusiast, I thrive on challenges and am always eager to enhance my expertise.
 
+## My Workstation
+
+[Details](https://github.com/nitrogenous/nitrogenous/blob/main/workstation.md)
+
 ### [toprak.dev](https://toprak.dev)
 
 ### ❓ Ask me about anything related to front-end stack and related technologies
