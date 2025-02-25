@@ -118,3 +118,15 @@ https://gist.github.com/nitrogenous/40d9b2f93b9d67eabf98550c5764c55e
 ## Layout
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/718375ff-f185-46b7-9657-ef10a2a2669e" />
+
+# Equipments
+
+- Mac Pro M1 Pro
+- AJAZZ AKS068 Keyboard
+- Logi G502 Mice
+- Magic Trackpad
+- AOC CU34G2 Ultrawide
+- Beats Studio 3 
+- Astro A10
+- Logi G733
+- Earpods
