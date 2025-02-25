@@ -21,15 +21,15 @@ https://www.gitkraken.com/
 
 # Terminal Replacement
 
-https://iterm2.com/
+https://iterm2.com/ OSX
 
-https://ohmyposh.dev/ 
+https://ohmyposh.dev/ WIN
 
 # Helpers
 
-https://www.raycast.com/
+https://www.raycast.com/ OSX
 
-https://learn.microsoft.com/en-us/windows/powertoys/
+https://learn.microsoft.com/en-us/windows/powertoys/ WIN
 
 # VSCode Settings
 
