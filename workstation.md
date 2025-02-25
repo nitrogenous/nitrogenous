@@ -19,6 +19,18 @@ I use GitKraken as my Git client of choice because of its intuitive interface, r
 
 https://www.gitkraken.com/
 
+# Terminal Replacement
+
+https://iterm2.com/
+
+https://ohmyposh.dev/ 
+
+# Helpers
+
+https://www.raycast.com/
+
+https://learn.microsoft.com/en-us/windows/powertoys/
+
 # VSCode Settings
 
 ## Extensions
