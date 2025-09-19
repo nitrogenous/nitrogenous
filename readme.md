@@ -13,8 +13,8 @@ With a background at leading startups and a passion for solving complex technica
 
 ---
 
-## 🖥️ My Workstation
-Curious about my setup? Check it out here → [workstation.md](https://github.com/nitrogenous/nitrogenous/blob/main/workstation.md)
+## 🖥️ My Environment
+Curious about my coding setup? [workstation.md](https://github.com/nitrogenous/nitrogenous/blob/main/workstation.md)
 
 ---
 
